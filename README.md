@@ -1,2 +1,2 @@
 # Data-analysis
-SQL, DatafFrame,
+SQL, DatafFrame, Pandas
